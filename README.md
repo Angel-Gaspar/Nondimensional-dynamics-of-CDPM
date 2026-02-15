@@ -1,0 +1,2 @@
+MAIN_Comparison_Lugre_Dahl.m is a matlab script to compare the estimated friction torque in a 2-DOF cable driven parallel manipulator using LuGre model and using Dahl model
+MAIN_Compare_Normalized_Dimensional.m is a matlab script showing the process of normalization (non-dimensionalization) of the variables and magnitudes involved in the dynamics in a 2-DOF CDPM. Comparison is given for both the normalized and non-normalized equations.
